@@ -5,3 +5,4 @@
 vim.g.suda_smart_edit = 1
 vim.g.lazyvim_prettier_needs_config = true
 vim.o.foldmethod = "manual"
+vim.wo.relativenumber = false
